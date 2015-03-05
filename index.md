@@ -6,7 +6,7 @@ layout: default
   <div class="container">
     <h1 id="tea_guide">Tea Guide</h1>
     <p class="lead">A mini guide to the world's favorite cup</p>
-    <img src="/img/samovar.jpg">
+    <img src="{{ site.baseurl }}/img/samovar.jpg">
   </div>
 </div>
 
