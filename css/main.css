@@ -75,12 +75,6 @@ a:hover {
   color: #999;
   text-decoration: none;
 }
-ul {
-  padding-left: 20px;
-}
-ol {
-  padding-left: 30px;
-}
 ul li,
 ol li {
   margin-top: 0px;
@@ -168,7 +162,7 @@ hr {
   padding-left: 3rem;
   background-color: #FFF;
   margin-top: 10px;
-  border-left: 10px solid #999;
+  border-left: 10px solid #7B8799;
   transition: .3s all;
 }
 .table-of-contents > h1 {

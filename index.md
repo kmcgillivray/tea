@@ -18,15 +18,10 @@ layout: default
   <div class="divider">— Coming soon —</div>
   
   <h1 id="types_of_tea">Types of Tea</h1>
-  
   <h1 id="how_to_make_tea">How to Make Tea</h1>
-  
   <h1 id="tea_history">Tea History</h1>
-  
   <h1 id="tea_around_the_world">Tea Around the World</h1>
-  
   <h1 id="tea_and_mindfulness">Tea and Mindfulness</h1>
-  
   <h1 id="resources">Resources</h1>
 </div>
 
