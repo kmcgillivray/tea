@@ -10,7 +10,7 @@ layout: default
   </div>
 </div>
 
-<p div class="col-md-7 center-block"><span class="drop-cap">T</span>ea is the most popular drink in the world after water. Despite it’s popularity, if you’re one of the many people who has never had the opportunity to be introduced to the basics of tea and how to make it, it can be confusing to know where to start. This guide is meant to be that introduction. Tea can seem complicated at first, but the basics are quite simple, and that’s what we’ll focus on here. The first chapter is available now, and the rest will be available soon.</p>
+<p div class="col-md-7 center-block"><span class="drop-cap">T</span>ea is the most popular drink in the world after water. Despite it’s popularity, many people have never had the opportunity to be introduced to the basics of tea and how to make it, and it can be confusing to know where to start. For those looking to learn more about tea, this guide is meant to be that introduction.</p>
   
 <div class="table-of-contents">
   <a href="{{ site.baseurl }}/tea-in-five-minutes"><h1 id="tea_in_five_minutes">Tea in Five Minutes</h1></a>
