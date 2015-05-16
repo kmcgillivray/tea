@@ -6,6 +6,9 @@
   <meta name="viewport" content="width=device-width">
   
   <title>{% if page.title %}{{ page.title}} | {% endif %}{{ site.title }}</title>
+  {% if page.description %}
+  <meta name="description" content="{{ page.description }}">
+  {% endif %}
   
   <!-- CSS (Bootstrap is loaded via a content delivery network) -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">

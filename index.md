@@ -1,5 +1,6 @@
 ---
 layout: default
+description: "A mini guide to the world's favorite cup by Kevin McGillivray and Alex Baranowski."
 ---
 
 <div class="cover">
