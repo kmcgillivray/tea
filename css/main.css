@@ -1,4 +1,9 @@
 /*
+ * Tea Guide
+ * 0.2.0
+ */
+
+/*
  * Contents
  *
  * Global resets
@@ -32,8 +37,8 @@ body {
 img {
 	width: 100%;
 	height: auto;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 15px;
+  margin-bottom: 15px;
   vertical-align: middle;
 }
 /* Helper class to center a set of columns horizontally */
@@ -59,15 +64,14 @@ h6 {
   margin-bottom: .5rem;
   font-size: 1rem;
   line-height: 1.35;
+  color: #f2572d;
 }
 h1 {
   margin-top: 0px;
   font-size: 1.2rem;
-  color: #f2572d;
 }
 h2 {
   font-size: 1.1rem;
-  color: #f2572d;
 }
 a {
   color: #f2572d;
@@ -82,8 +86,8 @@ ol li {
   margin-bottom: .75rem;
 }
 blockquote {
-  padding-left: .75rem;
-  padding-right: .75rem;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
   font-size: .9rem;
   line-height: 1.35;
   border-left: none;
@@ -96,6 +100,8 @@ hr {
   border-top: 0px;
   border-left: 0px;
   border-right: 0px;
+  width: 50%;
+  border-color: #f2572d;
 }
 .lead {
   font-size: 1.5rem;
@@ -112,10 +118,28 @@ hr {
   font-family: Georgia;
 }
 .divider {
+  font-size: 1.25rem;
   margin: 1rem;
-  color: #FFF;
+  color: #f2572d;
+  opacity: .5;
   text-align: center;
   font-style: italic;
+}
+
+/*
+ * Buttons
+ */
+
+.btn-default {
+  background-color: #7B8799;
+  color: #FFF;
+  border: 0;
+  border-bottom: 2px solid #4d5665;
+}
+.btn-default:hover {
+  background-color: #7B8799;
+  color: #FFF;
+  border-bottom: 2px solid #4d5665;
 }
 
 /*
@@ -134,12 +158,17 @@ hr {
  */
 
 .main-content {
-  margin-top: -1rem;
-  margin-bottom: -1rem;
   padding-top: 2rem;
   padding-left: 2rem;
   padding-right: 2rem;
+  padding-bottom: 1rem;
   background-color: #FFF;
+}
+@media (min-width: 768px) {
+  .main-content {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
 }
 
 /*
@@ -150,7 +179,7 @@ hr {
   border-top: 20px solid #7B8799;
   background-color: #FFF;
   text-align: center;
-  padding-top: 4rem;
+  padding-top: 3rem;
   padding-bottom: 4rem;
   margin-bottom: 1rem;
 }
@@ -187,6 +216,14 @@ hr {
   background-color: rgba(255,255,255,.8);
   border-left: 10px solid #f2572d;
   transition: .3s all;
+}
+
+/*
+ * Form
+ */
+
+form {
+  font-family: Helvetica, sans-serif;
 }
 
 /*
