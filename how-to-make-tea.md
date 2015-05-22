@@ -1,0 +1,1 @@
+There are many variations that go into the taste of tea, and all of them must be balanced to make a good cup. When the leaves were picked, how they were processed, the temperature of the water, the amount of tea used, the type of water used, the amount of time steeping.
