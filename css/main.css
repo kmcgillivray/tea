@@ -200,8 +200,8 @@ hr {
   width: 100%;
   margin-top: 0px;
   margin-bottom: 0px;
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   padding-left: 3rem;
   background-color: #FFF;
   margin-top: 10px;
@@ -213,7 +213,7 @@ hr {
   border-left: 10px solid #E7E7E7;
 }
 .table-of-contents a h1:hover {
-  background-color: rgba(255,255,255,.8);
+  background-color: rgba(255,255,255,.5);
   border-left: 10px solid #f2572d;
   transition: .3s all;
 }
