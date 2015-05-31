@@ -28,5 +28,5 @@ For the most common teas that you are likely to encounter, these steps are all t
 
 <hr>
 
-[Contents]({{ site.baseurl }}/#contents) |
-[Tea, Big and Small &raquo;]({{ site.baseurl }}/tea-big-and-small)
+[Contents](/#contents) |
+[Tea, Big and Small &raquo;](/tea-big-and-small)

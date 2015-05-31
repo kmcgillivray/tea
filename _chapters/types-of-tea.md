@@ -2,26 +2,6 @@
 layout: page
 ---
 
-# What is Tea?
-
-> Quote
-
-All tea is made from the dried and processed leaves, buds, and other parts of the *Camellia sinensis* plant which are then steeped in water to infuse the water with the leaves' flavor and nutrients.
-
-More information about *Camellia sinensis* here. Where does it grow? How is it harvested?
-
-There are seven main types of tea, and the variations between the type are created by varying the way that the leaves are prepared and processed:
-
-* Black
-* Green
-* White
-* Yellow
-* Oolong
-* Dark (also called *pu'erh*)
-* Herbal (also called *tisane*)
-
-Of these seven types, the first six are made from the *Camellia sinensis* plant, while the last type, herbal tea, can be made from a large variety of other plants. Some common herbal teas are chamomile, peppermint, and rooibos for example. It would be more accurate to call these "herbal infusions" rather than herbal teas because they aren't made from the tea plant. However in common usage it's convenient to call them tea because they are steeped in the same way just with different ingredients. All of these drinks are infusions of plants, but only black, green, white, yellow, oolong, and dark teas are infusions of the tea plant.
-
 Scented and flavored teas?
 
 ## Outline
