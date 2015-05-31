@@ -1,2 +1,6 @@
 title: Tea Guide
 permalink: pretty
+collections:
+  chapters:
+    output: true
+    permalink: /:path/

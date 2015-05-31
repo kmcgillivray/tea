@@ -16,12 +16,12 @@ description: "A mini guide to the world's favorite cup by Kevin McGillivray and 
   </div>
 </div>
 
-<div class="col-md-7 center-block">
+<div class="col-md-7 center-block" id="contents">
   <p><span class="drop-cap">T</span>ea is the most popular drink in the world after water. Despite its popularity, many people have never had the opportunity to be introduced to the basics of tea and how to make it, and it can be confusing to know where to start. For those looking to learn more about tea, this guide is meant to be that introduction.</p>
   
   <div class="table-of-contents">
     <a href="{{ site.baseurl }}/tea-in-five-minutes"><h1 id="tea_in_five_minutes">Tea in Five Minutes</h1></a>
-    <a href="{{ site.baseurl }}/introduction"><h1>The World’s Favorite Cup</h1></a>
+    <a href="{{ site.baseurl }}/tea-big-and-small"><h1>Tea, Big and Small</h1></a>
     <a href="{{ site.baseurl }}/what-is-tea"><h1>What is Tea?</h1></a>
     
     <div class="divider">— Coming soon —</div>
