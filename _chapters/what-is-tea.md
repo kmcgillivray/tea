@@ -4,8 +4,6 @@ layout: page
 
 # What is Tea?
 
-Photo/drawing of tea, tea field, tea leaves
-
 Tea is made from the dried and processed leaves, buds, and other parts of the tea plant, *Camellia sinensis*, which are then steeped in water to infuse the water with the plant's flavor and nutrients. 
 
 *Camellia sinensis* is a shrub-like plant that grows in warm climates and is native to regions in East, South, and Southeast Asia such as Japan, China, India, Sri Lanka, and Vietnam.
