@@ -4,9 +4,9 @@ layout: page
 
 # What is Tea?
 
-Tea is made from the dried and processed leaves, buds, and other parts of the tea plant, *Camellia sinensis*, which are then steeped in water to infuse the water with the plant's flavor and nutrients. 
+Tea is made from the dried and processed leaves, buds, and other parts of the tea plant, *Camellia sinensis*, which are then steeped in water to infuse the water with the plant's flavor and nutrients.
 
-*Camellia sinensis* is a shrub-like plant that grows in warm climates and is native to regions in East, South, and Southeast Asia such as Japan, China, India, Sri Lanka, and Vietnam.
+*Camellia sinensis* is a shrub-like plant that grows in warm climates and is native to regions in East, South, and Southeast Asia such as China, India, Japan, Sri Lanka, and Vietnam.
 
 There are seven main types of tea, and the variations between the types are created by varying the way that the leaves are prepared and processed:
 
