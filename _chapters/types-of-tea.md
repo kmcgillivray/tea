@@ -4,7 +4,7 @@ layout: page
 
 # Types of Tea
 
-The subtle differences in different types of tea are endless, which is why tea is so fascinating to explore. However, if you're new to tea, it's easy to feel overwhelmed by the wide variety.
+Although they are all made from the same plant, the subtle differences in different types of tea are endless, which is why tea is so fascinating to explore. However, if you're new to tea, it's easy to feel overwhelmed by the wide variety.
 
 Fortunately, as mentioned in the previous section, there are seven main categories of tea. These categories range on a spectrum from lighter teas like white and green tea on one end and darker teas like black tea on the other end. Becoming familiar with these categories is a good way to find your place in the world of tea no matter what you're brewing.
 
