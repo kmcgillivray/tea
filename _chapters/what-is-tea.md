@@ -25,4 +25,4 @@ In the next section, we will go into more detail about these types of teas—the
 <hr>
 
 [&laquo; Tea, Big and Small](/tea-big-and-small) | [Contents](/#contents) |
-Types of tea (Coming soon) &raquo;
+[Types of Tea &raquo;](/types-of-tea)
