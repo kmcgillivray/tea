@@ -187,6 +187,9 @@ hr {
   font-size: 2.2rem;
   color: #f2572d;
 }
+.cover h2 {
+  margin-top: 0;
+}
 
 /*
  * Table of Contents
@@ -195,8 +198,8 @@ hr {
 .table-of-contents {
   margin-top: 1.5rem;
 }
-.table-of-contents a h1,
-.table-of-contents h1 {
+.table-of-contents a h2,
+.table-of-contents h2 {
   width: 100%;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -208,11 +211,11 @@ hr {
   border-left: 10px solid #7B8799;
   transition: .3s all;
 }
-.table-of-contents > h1 {
+.table-of-contents > h2 {
   color: #E7E7E7;
   border-left: 10px solid #E7E7E7;
 }
-.table-of-contents a h1:hover {
+.table-of-contents a h2:hover {
   background-color: rgba(255,255,255,.5);
   border-left: 10px solid #f2572d;
   transition: .3s all;
