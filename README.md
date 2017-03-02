@@ -1,5 +1,5 @@
-# Jekyll Bootstrap
+# [Tea Guide](http://teaguide.co)
 
-This is a stripped down Jekyll template that includes Bootstrap and basic features like customized typography, a 404 page, etc.
+A mini guide to the world's favorite cup.
 
-I use it to get started faster on new client websites.
+[Read it here!](http://teaguide.co)
